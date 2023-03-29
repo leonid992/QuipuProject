@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Clients>
+    <Client Id ="1">
+		<Name>Name1</Name> 
+		<Address>Home address</Address>
+		<BirthDate>1998-01-01</BirthDate>
+	</Client>
+	<Client Id ="2">
+		<Name>Name2</Name> 
+		<Address>Home address 2</Address>
+		<BirthDate>1998-01-05</BirthDate>
+	</Client>
+	<Client Id ="3">
+		<Name>Name3</Name> 
+		<Address>Home address 3</Address>
+		<BirthDate>1998-01-06</BirthDate>
+	</Client>
+	<Client Id ="4">
+		<Name>Name4</Name> 
+		<Address>Home address 4</Address>
+		<BirthDate>1998-01-07</BirthDate>
+	</Client>
+	<Client Id ="5">
+		<Name>Name5</Name> 
+		<Address>Home address 5</Address>
+		<BirthDate>1998-01-10</BirthDate>
+	</Client>
+</Clients>
